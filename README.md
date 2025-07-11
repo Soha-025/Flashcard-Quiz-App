@@ -100,6 +100,7 @@ This application is the part of CodeAplha Internship project.
 ## 🙋🏻‍♀️ About Me
 
 **Soha Adnan**
+
 Data Science Intern | Data Science Student | Web developer
 
 [LinkedIn] (www.linkedin.com/in/soha-adnan-36b117349)
